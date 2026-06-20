@@ -11,7 +11,8 @@ The repository is organized according to the project guidelines and includes sub
 ```text
 251ME303/
 ├── MNIST_DigitClassification/
-└── SLM/
+├── SLM/
+└──VAE_MNIST/
 ```
 
 ### MNIST_DigitClassification
@@ -21,6 +22,10 @@ This directory contains notebooks, code, and related files for the MNIST Digit C
 ### SLM
 
 This directory contains notebooks, code, and related files for the Small Language Model (SLM) project (empty for now).
+
+### VAE_MNIST
+
+This directory contains the notebooks, code and, related files for VAE Project
 
 ## Objectives
 
