@@ -7,6 +7,7 @@ venv/
 *.log
 .DS_Store
 Thumbs.db
+
 gpt_model.pt
 train.bin
 validation.bin
